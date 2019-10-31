@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "gengar",
+      "image": "https://i.pinimg.com/474x/ac/d9/3a/acd93ab475c20cc24b5cd11b2fdf64b5.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "articuno",
+      "image": "https://i.pinimg.com/474x/1b/b7/c9/1bb7c92ce9453f6b75c87e57bf2a708d.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "snorlax",
+      "image": "https://i.pinimg.com/474x/34/ca/1c/34ca1c5000c803f69f8198a3de0924d2.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "gyarados",
+      "image": "https://i.pinimg.com/474x/5d/1e/d3/5d1ed3e467da4a4b7bb3321cbd4a9a79.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "mew",
+      "image": "https://i.pinimg.com/474x/ca/0a/8d/ca0a8d937bbe6f44c2f4344bb086b9fa.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "arcanine",
+      "image": "https://i.pinimg.com/474x/0a/9a/ac/0a9aac53ac59763768edb2035b5680db.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "staryu",
+      "image": "https://i.pinimg.com/474x/93/82/a7/9382a78bb226462974a3f14d0df5f3cc.jpg",
+      "clicked": false
+     },
+    {
+      "id": 8,
+      "name": "pikachu",
+      "image": "https://i.pinimg.com/474x/cb/44/1e/cb441e6e28a4f957fd848098094ee774--pokemon.jpg",
+      "clicked": false
+        },
+    {
+      "id": 9,
+      "name": "moltres",
+      "image": "https://i.pinimg.com/474x/e6/57/dd/e657ddf328142a23c630623f9bec0fed.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "ivysaur",
+      "image": "https://i.pinimg.com/474x/ef/48/5f/ef485ff517023ee1c634901d5dfeae56.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "psyduck",
+      "image": "https://i.pinimg.com/474x/cd/97/b0/cd97b025c6642a1c5722c40c6e41be3c.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "zapdos",
+      "image": "https://i.pinimg.com/474x/32/d6/3f/32d63f7c831f4ae8ae28e5f13dba892a.jpg",
+      "clicked": false
+    }
+    
+  ]
